@@ -6,7 +6,7 @@
 ## 快速开始
  1. 克隆仓库
 ```bash
-git clone https://github.com/IsayoiSaya/ARA_0.0
+git clone https://github.com/IsayoiSaya/ARA_0.0.git
 
 ```
  2. 配置路径
@@ -95,5 +95,6 @@ Q: 如何处理大型数据集？ A:
 
 ##  技术支持
  如有问题请联系：[shiqiricardian@foxmail.com]
+
 
 
