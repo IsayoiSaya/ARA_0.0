@@ -1,0 +1,110 @@
+Types	Class
+aminocoumarin antibiotic	aminocoumarin antibiotic
+aminoglycoside antibiotic	aminoglycoside antibiotic
+antibacterial free fatty acids	antibacterial free fatty acids
+multidrug	benzalkonium chloride;rhodamine;tetracycline antibiotic
+beta-lactam antibiotic	carbapenem
+beta-lactam antibiotic	carbapenem;cephalosporin
+beta-lactam antibiotic	carbapenem;cephalosporin;cephamycin;monobactam;penam
+beta-lactam antibiotic	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem
+beta-lactam antibiotic	carbapenem;cephalosporin;cephamycin;penam
+beta-lactam antibiotic	carbapenem;cephalosporin;cephamycin;penam;penem
+beta-lactam antibiotic	carbapenem;cephalosporin;monobactam
+beta-lactam antibiotic	carbapenem;cephalosporin;monobactam;penam;penem
+beta-lactam antibiotic	carbapenem;cephalosporin;penam
+beta-lactam antibiotic	carbapenem;monobactam;penam
+beta-lactam antibiotic	carbapenem;penam
+beta-lactam antibiotic	cephalosporin
+beta-lactam antibiotic	cephalosporin;cephamycin
+beta-lactam antibiotic	cephalosporin;cephamycin;monobactam;penam;penem
+beta-lactam antibiotic	cephalosporin;cephamycin;penam
+beta-lactam antibiotic	cephamycin
+beta-lactam antibiotic	penam
+beta-lactam antibiotic	penam;penem
+bicyclomycin	bicyclomycin
+diaminopyrimidine antibiotic	diaminopyrimidine antibiotic
+fluoroquinolone antibiotic	fluoroquinolone antibiotic
+fosfomycin	fosfomycin
+fusidic acid	fusidic acid
+glycopeptide antibiotic	glycopeptide antibiotic
+MLS	lincosamide antibiotic
+MLS	lincosamide antibiotic;macrolide antibiotic
+MLS	lincosamide antibiotic;macrolide antibiotic;streptogramin antibiotic
+MLS	macrolide antibiotic
+MLS	streptogramin antibiotic
+multidrug	acridine dye;aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;diaminopyrimidine antibiotic;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;peptide ant
+multidrug	acridine dye;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;phenicol antibiotic;tetracycline antibiotic
+multidrug	acridine dye;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;macrolide antibiotic;penam;phenicol antibiotic;tetracycline antibiotic
+multidrug	acridine dye;carbapenem;diaminopyrimidine antibiotic;disinfecting agents and intercalating dyes;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic
+multidrug	acridine dye;cephalosporin;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic;triclosan
+multidrug	acridine dye;cephalosporin;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;penam;peptide antibiotic;tetracycline antibiotic
+multidrug	acridine dye;disinfecting agents and intercalating dyes
+multidrug	acridine dye;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic
+multidrug	acridine dye;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;lincosamide antibiotic;nucleoside antibiotic;phenicol antibiotic
+multidrug	acridine dye;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic
+multidrug	acridine dye;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;nucleoside antibiotic;phenicol antibiotic
+multidrug	acridine dye;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;tetracycline antibiotic
+multidrug	acridine dye;disinfecting agents and intercalating dyes;fluoroquinolone antibiotic;triclosan
+multidrug	acridine dye;disinfecting agents and intercalating dyes;macrolide antibiotic
+multidrug	acridine dye;disinfecting agents and intercalating dyes;nucleoside antibiotic
+multidrug	aminocoumarin antibiotic;aminoglycoside antibiotic
+multidrug	aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetra
+multidrug	aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penam;penem;peptide antibiotic;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic;triclosan
+multidrug	aminocoumarin antibiotic;aminoglycoside antibiotic;cephalosporin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;penam;phenicol antibiotic;tetracycline antibiotic
+multidrug	aminocoumarin antibiotic;carbapenem;cephalosporin;cephamycin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetracycline antibiotic
+multidrug	aminocoumarin antibiotic;carbapenem;peptide antibiotic;rifamycin antibiotic
+multidrug	aminocoumarin antibiotic;macrolide antibiotic
+multidrug	aminocoumarin antibiotic;macrolide antibiotic;monobactam;tetracycline antibiotic
+multidrug	aminoglycoside antibiotic;benzalkonium chloride;fluoroquinolone antibiotic
+multidrug	aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penam;penem;peptide antibiotic
+multidrug	aminoglycoside antibiotic;carbapenem;fluoroquinolone antibiotic;macrolide antibiotic;tetracycline antibiotic
+multidrug	aminoglycoside antibiotic;cephalosporin;cephamycin;penam
+multidrug	aminoglycoside antibiotic;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic
+multidrug	aminoglycoside antibiotic;cephalosporin;macrolide antibiotic;peptide antibiotic;rifamycin antibiotic;tetracycline antibiotic
+multidrug	aminoglycoside antibiotic;diaminopyrimidine antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic
+multidrug	aminoglycoside antibiotic;fluoroquinolone antibiotic
+multidrug	aminoglycoside antibiotic;fluoroquinolone antibiotic;rifamycin antibiotic;tetracycline antibiotic
+multidrug	carbapenem;cephalosporin;cephamycin;fluoroquinolone antibiotic;glycylcycline;monobactam;penam;penem;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic;triclosan
+multidrug	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem;phenicol antibiotic
+multidrug	carbapenem;cephalosporin;diaminopyrimidine antibiotic ;fluoroquinolone antibiotic;lincosamide antibiotic;macrolide antibiotic;penem;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+multidrug	cephalosporin;cephamycin;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic;triclosan
+multidrug	cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic
+multidrug	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam
+multidrug	cephalosporin;fluoroquinolone antibiotic;fusidic acid;macrolide antibiotic
+multidrug	cephalosporin;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic;triclosan
+multidrug	cephalosporin;fluoroquinolone antibiotic;monobactam
+multidrug	cephalosporin;monobactam
+multidrug	cephalosporin;monobactam;penam
+multidrug	cephalosporin;monobactam;penam;penem
+multidrug	cephalosporin;penam
+multidrug	cephalosporin;penam;peptide antibiotic
+multidrug	diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic
+multidrug	diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic
+multidrug	disinfecting agents and intercalating dyes
+multidrug	fluoroquinolone antibiotic;macrolide antibiotic
+multidrug	fluoroquinolone antibiotic;macrolide antibiotic;penam
+multidrug	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic
+multidrug	fluoroquinolone antibiotic;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic
+multidrug	fluoroquinolone antibiotic;macrolide antibiotic;rifamycin antibiotic
+multidrug	fluoroquinolone antibiotic;tetracycline antibiotic
+multidrug	glycylcycline;tetracycline antibiotic
+multidrug	isoniazid;rifamycin antibiotic
+multidrug	lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic
+multidrug	lincosamide antibiotic;macrolide antibiotic;streptogramin antibiotic;tetracycline antibiotic
+multidrug	lincosamide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic
+multidrug	lincosamide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;streptogramin antibiotic
+multidrug	macrolide antibiotic;penam
+multidrug	macrolide antibiotic;tetracycline antibiotic;triclosan
+multidrug	penam;tetracycline antibiotic
+multidrug	peptide antibiotic;rifamycin antibiotic
+mupirocin	mupirocin
+nitroimidazole antibiotic	nitroimidazole antibiotic
+nucleoside antibiotic	nucleoside antibiotic
+peptide antibiotic	peptide antibiotic
+phenicol antibiotic	phenicol antibiotic
+pleuromutilin antibiotic	pleuromutilin antibiotic
+rifamycin antibiotic	rifamycin antibiotic
+sulfonamide antibiotic	sulfonamide antibiotic
+sulfonamide antibiotic	sulfonamide antibiotic;sulfone antibiotic
+tetracycline antibiotic	tetracycline antibiotic
+triclosan	triclosan

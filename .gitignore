@@ -1,0 +1,36 @@
+# .gitignore
+# Python 相关
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 环境相关
+.env
+.venv/
+venv/
+env/
+
+# 数据文件
+*.xlsx
+*.txt
+*.log
+*.csv
+*.tsv
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 相关
+.idea/
+.vscode/
+*.code-workspace
+
+# 日志文件
+*.log
+logs/
+
+# 特殊文件
+config/local_*.py  # 本地配置文件
